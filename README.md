@@ -20,4 +20,4 @@ Group project for ISOM3360 Data Mining for Business Analytics:
 ## Github & Git Resourses:
 1. Getting started with Git and GitHub: the complete beginner’s guide: https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6  
 2. Resources to learn Git: https://try.github.io  
-3.Git Version Control with Jupyter Notebooks: https://towardsdatascience.com/version-control-with-jupyter-notebooks-f096f4d7035a
+3. Git Version Control with Jupyter Notebooks: https://towardsdatascience.com/version-control-with-jupyter-notebooks-f096f4d7035a
