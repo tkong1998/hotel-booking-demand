@@ -11,9 +11,10 @@ Group project for ISOM3360 Data Mining for Business Analytics:
 ## Task List:  
 - [x] Data Preparation
 - [x] Integrate the codes
-- [ ] Model Building - Decision Tree
-- [ ] Model Building - Logisctic Regression
+- [x] Model Building - Decision Tree
+- [x] Model Building - Logisctic Regression
 - [ ] Model Building - Naive Bayesian
+- [ ] Model Building - K nearest neighbors
 - [ ] Model Evaluation
 - [ ] Final Report
 
