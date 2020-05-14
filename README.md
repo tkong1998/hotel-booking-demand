@@ -13,10 +13,10 @@ Group project for ISOM3360 Data Mining for Business Analytics:
 - [x] Integrate the codes
 - [x] Model Building - Decision Tree
 - [x] Model Building - Logisctic Regression
-- [ ] Model Building - Naive Bayesian
-- [ ] Model Building - K nearest neighbors
-- [ ] Model Evaluation
-- [ ] Final Report
+- [x] Model Building - Naive Bayesian
+- [x] Model Building - K nearest neighbors
+- [x] Model Evaluation
+- [x] Final Report
 
 ## Github & Git Resourses:
 1. Getting started with Git and GitHub: the complete beginner’s guide: https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6  
